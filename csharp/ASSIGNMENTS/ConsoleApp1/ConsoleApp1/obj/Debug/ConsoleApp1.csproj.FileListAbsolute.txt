@@ -1,0 +1,7 @@
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
