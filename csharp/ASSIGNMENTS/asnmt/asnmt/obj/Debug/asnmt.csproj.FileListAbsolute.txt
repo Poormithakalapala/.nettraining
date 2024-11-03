@@ -1,0 +1,7 @@
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\asnmt\asnmt\bin\Debug\asnmt.exe.config
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\asnmt\asnmt\bin\Debug\asnmt.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\asnmt\asnmt\bin\Debug\asnmt.pdb
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\asnmt\asnmt\obj\Debug\asnmt.csproj.AssemblyReference.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\asnmt\asnmt\obj\Debug\asnmt.csproj.CoreCompileInputs.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\asnmt\asnmt\obj\Debug\asnmt.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\asnmt\asnmt\obj\Debug\asnmt.pdb

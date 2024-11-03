@@ -1,0 +1,7 @@
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assgnment2\assgnment2\bin\Debug\assgnment2.exe.config
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assgnment2\assgnment2\bin\Debug\assgnment2.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assgnment2\assgnment2\bin\Debug\assgnment2.pdb
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assgnment2\assgnment2\obj\Debug\assgnment2.csproj.AssemblyReference.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assgnment2\assgnment2\obj\Debug\assgnment2.csproj.CoreCompileInputs.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assgnment2\assgnment2\obj\Debug\assgnment2.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assgnment2\assgnment2\obj\Debug\assgnment2.pdb
