@@ -27,6 +27,22 @@ namespace assignment3
             }
             Console.WriteLine("Reversestring: " + reverseword);
         }
+        static void SameorNot()
+        {
+            Console.WriteLine("Enter 1st word: ");
+            string word1 = Console.ReadLine();
+            Console.WriteLine("Enter 2nd word: ");
+            string word2 = Console.ReadLine();
+
+            if (word1==word2)
+            {
+                Console.WriteLine("they are same");
+            }
+            else
+            {
+                Console.WriteLine("They are not same");
+            }
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("---length--");
@@ -34,6 +50,9 @@ namespace assignment3
            
             Console.WriteLine("---reverse--");
             Reversestr();
+
+            Console.WriteLine("---Sameornot--");
+            SameorNot();
 
             Console.Read();
         }
