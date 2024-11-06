@@ -1,0 +1,7 @@
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT1\ASSESSMENT1\bin\Debug\ASSESSMENT1.exe.config
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT1\ASSESSMENT1\bin\Debug\ASSESSMENT1.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT1\ASSESSMENT1\bin\Debug\ASSESSMENT1.pdb
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT1\ASSESSMENT1\obj\Debug\ASSESSMENT1.csproj.AssemblyReference.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT1\ASSESSMENT1\obj\Debug\ASSESSMENT1.csproj.CoreCompileInputs.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT1\ASSESSMENT1\obj\Debug\ASSESSMENT1.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT1\ASSESSMENT1\obj\Debug\ASSESSMENT1.pdb
