@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Assignment1
-    
 {
     internal class Program
     {

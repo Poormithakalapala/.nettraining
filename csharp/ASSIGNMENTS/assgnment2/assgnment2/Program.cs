@@ -140,7 +140,7 @@ namespace assgnment2
             Console.WriteLine("Elements of destination array:");
             foreach(int element in destinationArray)
             {
-                Console.WriteLine(element + " ");
+                Console.Write(element + " ");
             }
         }
         static void Main(String[] args)
