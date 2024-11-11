@@ -1,0 +1,7 @@
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assignment4\assignment4\bin\Debug\assignment4.exe.config
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assignment4\assignment4\bin\Debug\assignment4.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assignment4\assignment4\bin\Debug\assignment4.pdb
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assignment4\assignment4\obj\Debug\assignment4.csproj.AssemblyReference.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assignment4\assignment4\obj\Debug\assignment4.csproj.CoreCompileInputs.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assignment4\assignment4\obj\Debug\assignment4.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSIGNMENTS\assignment4\assignment4\obj\Debug\assignment4.pdb
