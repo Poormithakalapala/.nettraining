@@ -1,0 +1,7 @@
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT2\ASSESSMENT2\bin\Debug\ASSESSMENT2.exe.config
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT2\ASSESSMENT2\bin\Debug\ASSESSMENT2.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT2\ASSESSMENT2\bin\Debug\ASSESSMENT2.pdb
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT2\ASSESSMENT2\obj\Debug\ASSESSMENT2.csproj.AssemblyReference.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT2\ASSESSMENT2\obj\Debug\ASSESSMENT2.csproj.CoreCompileInputs.cache
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT2\ASSESSMENT2\obj\Debug\ASSESSMENT2.exe
+C:\poormithabhavana\.net_trainee\csharp\ASSESSMENTS\ASSESSMENT2\ASSESSMENT2\obj\Debug\ASSESSMENT2.pdb
