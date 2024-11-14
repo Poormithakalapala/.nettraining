@@ -1,0 +1,4 @@
+Hello from IO
+Writing into file
+Written
+Completed
