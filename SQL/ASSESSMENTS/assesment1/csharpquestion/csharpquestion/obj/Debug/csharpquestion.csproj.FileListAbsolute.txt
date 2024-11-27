@@ -1,0 +1,7 @@
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assesment1\csharpquestion\csharpquestion\bin\Debug\csharpquestion.exe.config
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assesment1\csharpquestion\csharpquestion\bin\Debug\csharpquestion.exe
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assesment1\csharpquestion\csharpquestion\bin\Debug\csharpquestion.pdb
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assesment1\csharpquestion\csharpquestion\obj\Debug\csharpquestion.csproj.AssemblyReference.cache
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assesment1\csharpquestion\csharpquestion\obj\Debug\csharpquestion.csproj.CoreCompileInputs.cache
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assesment1\csharpquestion\csharpquestion\obj\Debug\csharpquestion.exe
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assesment1\csharpquestion\csharpquestion\obj\Debug\csharpquestion.pdb
