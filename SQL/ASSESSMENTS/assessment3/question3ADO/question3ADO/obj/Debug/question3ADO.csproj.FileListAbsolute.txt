@@ -1,0 +1,7 @@
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assessment3\question3ADO\question3ADO\bin\Debug\question3ADO.exe.config
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assessment3\question3ADO\question3ADO\bin\Debug\question3ADO.exe
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assessment3\question3ADO\question3ADO\bin\Debug\question3ADO.pdb
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assessment3\question3ADO\question3ADO\obj\Debug\question3ADO.csproj.AssemblyReference.cache
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assessment3\question3ADO\question3ADO\obj\Debug\question3ADO.csproj.CoreCompileInputs.cache
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assessment3\question3ADO\question3ADO\obj\Debug\question3ADO.exe
+C:\poormithabhavana\.net_trainee\SQL\ASSESSMENTS\assessment3\question3ADO\question3ADO\obj\Debug\question3ADO.pdb
