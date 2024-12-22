@@ -1,0 +1,7 @@
+C:\poormithabhavana\.net_trainee\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+C:\poormithabhavana\.net_trainee\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+C:\poormithabhavana\.net_trainee\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+C:\poormithabhavana\.net_trainee\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.AssemblyReference.cache
+C:\poormithabhavana\.net_trainee\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+C:\poormithabhavana\.net_trainee\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+C:\poormithabhavana\.net_trainee\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
