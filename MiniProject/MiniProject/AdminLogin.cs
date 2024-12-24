@@ -11,8 +11,8 @@ namespace MiniProject
     {
         public static void Login()
         {
-            Console.Clear();
-            Console.WriteLine("Admin Login");
+            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("ADMIN LOGIN");
             Console.Write("Enter Admin Username: ");
             string username = Console.ReadLine();
 
@@ -36,7 +36,7 @@ namespace MiniProject
             }
             else
             {
-                Console.WriteLine("Invalid credentials. Press Enter to try again.");
+                Console.WriteLine("Incorrect credentials. Press Enter to try again.");
                 Console.ReadLine();
             }
         }

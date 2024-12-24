@@ -14,7 +14,7 @@ namespace MiniProject
         {
             while (true)
             {
-                Console.Clear();
+                Console.WriteLine("---------------------------------------------");
                 Console.WriteLine("*             ADMIN MENU              *");
                 Console.ResetColor();
                 Console.WriteLine("1. Add Train");
@@ -29,26 +29,32 @@ namespace MiniProject
 
                 if (choice == "1")
                 {
+                    Console.WriteLine("---------------------------------------------");
                     AddTrain();
                 }
                 else if (choice == "2")
                 {
+                    Console.WriteLine("---------------------------------------------");
                     ModifyTrain();
                 }
                 else if (choice == "3")
                 {
+                    Console.WriteLine("---------------------------------------------");
                     DeleteTrain();
                 }
                 else if (choice == "4")
                 {
+                    Console.WriteLine("---------------------------------------------");
                     ViewAllBookings();
                 }
                 else if (choice == "5")
                 {
+                    Console.WriteLine("---------------------------------------------");
                     ViewAllCancellations();
                 }
                 else if (choice == "6")
                 {
+                    Console.WriteLine("---------------------------------------------");
                     ManageUsers();
                 }
                 else if (choice == "7")
@@ -60,7 +66,7 @@ namespace MiniProject
 
         private static void AddTrain()
         {
-            Console.Clear();
+           
             Console.Write("Enter Train Number: ");
             var tno = int.Parse(Console.ReadLine());
 
@@ -118,7 +124,7 @@ namespace MiniProject
 
         private static void ModifyTrain()
         {
-            Console.Clear();
+            
             Console.Write("Enter Train Number to Modify: ");
             var tno = int.Parse(Console.ReadLine());
 
@@ -194,7 +200,7 @@ namespace MiniProject
 
         private static void DeleteTrain()
         {
-            Console.Clear();
+            
             Console.Write("Enter Train Number to Delete: ");
             if (!int.TryParse(Console.ReadLine(), out int tno))
             {
@@ -266,7 +272,7 @@ namespace MiniProject
 
         private static void ViewAllBookings()
         {
-            Console.Clear();
+           
             var query = "SELECT * FROM Bookings";
 
             var table = Database.ExecuteQuery(query);
@@ -288,7 +294,7 @@ namespace MiniProject
 
         private static void ViewAllCancellations()
         {
-            Console.Clear();
+           
             var query = "SELECT C.CancellationId, C.BookingId, C.NumberOfSeatsCancelled, C.CancellationDate, B.Tno, B.UserId " +
                         "FROM Cancellations C " +
                         "JOIN Bookings B ON C.BookingId = B.BookingId";
@@ -312,7 +318,7 @@ namespace MiniProject
 
         public static void ManageUsers()
         {
-            Console.Clear();
+            
             Console.WriteLine("1. View All Users");
             Console.WriteLine("2. Delete User");
             Console.Write("Choose an option: ");
@@ -329,7 +335,7 @@ namespace MiniProject
         }
         private static void ViewAllUsers()
         {
-            Console.Clear();
+            
             var query = "SELECT * FROM Users";
             var table = Database.ExecuteQuery(query);
 
@@ -351,7 +357,7 @@ namespace MiniProject
 
         private static void DeleteUser()
         {
-            Console.Clear();
+          
             Console.Write("Enter User ID to Delete: ");
 
             if (!int.TryParse(Console.ReadLine(), out int userId))

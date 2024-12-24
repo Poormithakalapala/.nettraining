@@ -13,7 +13,6 @@ namespace MiniProject
         {
             while (true)
             {
-                Console.Clear();
                 Console.WriteLine("*    WELCOME TO RAILWAY RESERVATION  *");
                 Console.WriteLine();
                 Console.WriteLine("1. Registration");
@@ -21,17 +20,21 @@ namespace MiniProject
                 Console.WriteLine("3. User Login");
                 Console.WriteLine("4. Exit");
                 Console.Write("Choose an option: ");
+
                 string choice = Console.ReadLine();
 
                 switch (choice)
                 {
                     case "1":
+                        Console.WriteLine("---------------------------------------------");
                         Registrations.Registration();
                         break;
                     case "2":
+                        Console.WriteLine("---------------------------------------------");
                         AdminLogin.Login();
                         break;
                     case "3":
+                        Console.WriteLine("---------------------------------------------");
                         UserLogin.Login();
                         break;
                     case "4":

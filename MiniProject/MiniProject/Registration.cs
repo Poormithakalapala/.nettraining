@@ -11,7 +11,7 @@ namespace MiniProject
     {
         public static void Registration()
         {
-            Console.Clear();
+            Console.WriteLine("---------------------------------------------");
             Console.WriteLine("*             REGISTRATION                *");
             Console.Write("Enter Username: ");
             var username = Console.ReadLine();

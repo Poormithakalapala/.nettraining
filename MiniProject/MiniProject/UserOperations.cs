@@ -16,7 +16,8 @@ namespace MiniProject
             {
                 try
                 {
-                    Console.Clear();
+                    Console.WriteLine("---------------------------------------------");
+
                     Console.WriteLine("*              USER MENU               *");
 
                     Console.WriteLine();
@@ -30,20 +31,25 @@ namespace MiniProject
 
                     if (choice == "1")
                     {
+                        Console.WriteLine("---------------------------------------------");
                         SearchTrain();
                     }
                     else if (choice == "2")
                     {
+                        Console.WriteLine("---------------------------------------------");
                         BookTickets(userId);
                     }
                     else if (choice == "3")
                     {
+                        Console.WriteLine("---------------------------------------------");
                         CancelTickets(userId);
                     }
                     else if (choice == "4")
                     {
+                        Console.WriteLine("---------------------------------------------");
                         ViewBookings(userId);
                     }
+              
                     else if (choice == "5")
                     {
                         break;
@@ -57,7 +63,7 @@ namespace MiniProject
         }
         private static void SearchTrain()
         {
-            Console.Clear();
+            
             Console.Write("Enter Source Station: ");
             var fromStation = Console.ReadLine();
 
@@ -102,7 +108,7 @@ namespace MiniProject
         }
         private static void BookTickets(int userId)
         {
-            Console.Clear();
+            
             Console.Write("Enter Train Number: ");
             var tno = int.Parse(Console.ReadLine());
 
@@ -223,7 +229,7 @@ namespace MiniProject
 
         private static void CancelTickets(int userId)
         {
-            Console.Clear();
+           
             Console.Write("Enter Booking ID: ");
             var bookingId = int.Parse(Console.ReadLine());
 
@@ -302,7 +308,7 @@ namespace MiniProject
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Error: {ex.Message}");//need to change-----
+                Console.WriteLine($"Error: {ex.Message}");
             }
 
             Console.WriteLine("Press Enter to continue.");
@@ -311,7 +317,7 @@ namespace MiniProject
 
         private static void ViewBookings(int userId)
         {
-            Console.Clear();
+           
             var query = "SELECT * FROM Bookings WHERE UserId = @UserId";
             var parameters = new[] {
             new SqlParameter("@UserId", userId)

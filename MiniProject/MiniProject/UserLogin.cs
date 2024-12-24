@@ -7,8 +7,8 @@ namespace MiniProject
     {
         public static void Login()
         {
-            Console.Clear();
-            Console.WriteLine("User Login");
+            Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("USER LOGIN");
             Console.Write("Enter Username: ");
             string username = Console.ReadLine();
 
@@ -32,7 +32,7 @@ namespace MiniProject
             }
             else
             {
-                Console.WriteLine("Invalid credentials. Press Enter to try again.");
+                Console.WriteLine("Incorrect credentials. Press Enter to try again.");
                 Console.ReadLine();
             }
         }
